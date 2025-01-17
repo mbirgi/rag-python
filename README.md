@@ -15,3 +15,9 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Sent
 ```sh
 git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
+```
+
+2. Execute `main.py`:
+```sh
+python main.py
+```
